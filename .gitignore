@@ -1,0 +1,4 @@
+*.pro.user*
+*.orig
+.shadow
+*.user
